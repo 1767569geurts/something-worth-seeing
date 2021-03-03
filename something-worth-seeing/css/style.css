@@ -1,0 +1,35 @@
+body { 
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    margin-top: 100px;
+    font-size: 50pt;
+    font-weight: bold;
+}
+
+.container{
+    margin-bottom: 50px;
+    margin-left: 100px;
+    display:block;
+    position: relative;
+    float:left;
+}
+
+svg{
+    height:160px
+}
+
+.st0{fill:lightblue;
+    stroke:teal;
+    stroke-width:15px;
+    stroke-miterlimit:10;
+}
+
+.st1{
+    fill:none;
+    stroke:#3C3CCE;
+    stroke-width:35;
+    stroke-miterlimit:10;
+}
